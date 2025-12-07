@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ShapeAppearanceOverlay.Circle" parent="">
+        <item name="cornerFamily">rounded</item>
+        <!-- cornerSize = half of size -> large value để thành circle -->
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>
