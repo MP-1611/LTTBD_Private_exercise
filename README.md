@@ -1,0 +1,3 @@
+Sau khi học xong môn học em mong muốn mình có thể hiểu rõ được các bước và quy trình để phát triển một ứng dụng từ việc lên ý tưởng cho đến một sản phẩm hoàn chỉnh, ngoài ra em còn muốn nâng cao nhiều kỹ năng đặc biệt là về phần UI/UX 
+
+Định hướng sau khi học xong môn học là em có thể có khả năng và tự tin làm ra một ứng dụng cá nhân đăng lên được App Store hoặc CH Play,...
